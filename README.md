@@ -6,9 +6,9 @@ The purpose of this analysis is to look at green energy stocks in order to help 
 ## Results
 After running the analysis of the stocks, it is shown that performance was better in 2017 than it was in 2018. In 2018, the only companies with positive return were the companies represented by the tickers ENPH and RUN. This starkly contrasts the results for 2017, where all companies exept for TERP yieleded positive returns. 
 
-![2017](VBA_Challenge_2017.png)
+![2017_Challenge](VBA_Challenge_2017.png)
 
-![2018](VBA_Challenge_2018.png)
+![2018_Challenge](VBA_Challenge_2018.png)
 
 The original script for both the 2017 and 2018 analyses ran faster than their refactored counterparts:
 
